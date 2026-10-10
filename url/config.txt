@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_file
 https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt
 https://raw.githubusercontent.com/prxchk/proxy-list/main/http.txt
 https://raw.githubusercontent.com/casals-ar/proxy.casals.ar/main/http
+https://rcloak.com/api/proxies/raw?protocol=http
